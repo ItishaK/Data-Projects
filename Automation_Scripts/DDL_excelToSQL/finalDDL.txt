@@ -1,0 +1,21 @@
+CREATE TABLE book (
+book_id INT,
+title VARCHAR(400),
+isbn13 VARCHAR(13),
+language_id INT,
+num_pages INT,
+publication_date DATE,
+publisher_id INT,
+CONSTRAINT pk_book PRIMARY KEY (book_id));
+
+CREATE TABLE publisher (
+publisher_id INT,
+publisher_name VARCHAR(400),
+CONSTRAINT pk_publisher PRIMARY KEY (publisher_id));
+
+CREATE TABLE book_language (
+language_id INT,
+language_code VARCHAR(8),
+language_name VARCHAR(50),
+CONSTRAINT pk_language PRIMARY KEY (language_id));
+
