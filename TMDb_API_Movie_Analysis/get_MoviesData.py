@@ -3,6 +3,8 @@ import requests
 import mysql.connector
 
 # TMDb API Key
+# To get your API key, register here first: https://www.themoviedb.org/
+# Then, go to link: https://developer.themoviedb.org/docs/getting-started
 API_KEY = "your_api_key_here"
 BASE_URL = "https://api.themoviedb.org/3"
 
