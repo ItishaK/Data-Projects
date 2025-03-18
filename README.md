@@ -16,6 +16,6 @@ https://medium.com/devops-dev/sql-window-functions-and-frames-efd338708bb4
 5. **Ultimate Guide for Aspiring Data Engineers: Why Data Quality & Cleaning Are Game-Changers**
 https://medium.com/devops-dev/data-quality-checks-data-cleaning-a-bonus-tip-with-postgresql-2fc108c0a52b
 
-6. ** A Data Engineer’s Beginner Guide to JSON Data Handling**
+6. **A Data Engineer’s Beginner Guide to JSON Data Handling**
 https://medium.com/data-engineer-things/a-data-engineers-beginner-guide-to-json-data-handling-71ffd5b3f68a
 
